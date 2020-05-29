@@ -48,7 +48,7 @@ services:
         tagstyle: "is-success"
         url: "http://mc.tiller.pw/"
       - name: "Pi-Hole"
-        logo: "assets/tools/minecraft.png"
+        logo: "assets/tools/pi-hole.png"
         subtitle: "Pi-Hole DNS Server setup at home."
         tag: ""
         # Optional tagstyle
